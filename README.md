@@ -7,7 +7,7 @@ A MERN Stack Sales Management Application enabling users to access the following
 <li>User data will be retained in local storage and can be accessed even after closing the browser</li>
 <li>Customer and Item data</li>
 </ul>
-<br/><br/>
+<br/>
 Tech used:- <br/>
 <ul>
 <li>React JS for Frontend</li>
