@@ -1,4 +1,5 @@
-## Sales-Management-Application
+### Sales-Management-Application
+## Checkout the live app on:- https://sales-mern.herokuapp.com/login
 A MERN Stack Sales Management Application enabling users to access the following features:- <br/>
 <ul>
 <li>Complete User Authentication</li>
