@@ -8,7 +8,7 @@ A MERN Stack Sales Management Application enabling users to access the following
 <li>Customer and Item data</li>
 </ul>
 <br/>
-# Tech used:- <br/>
+#Tech used:- <br/>
 <ul>
 <li>React JS for Frontend</li>
 <li>Node JS for Backend</li>
